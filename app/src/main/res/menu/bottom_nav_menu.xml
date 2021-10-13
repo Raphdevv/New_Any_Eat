@@ -13,7 +13,7 @@
 
     <item
         android:id="@+id/navi_prof"
-        android:icon="@drawable/ic_baseline_perm_identity_24"
+        android:icon="@drawable/userprof"
         android:title="@string/title_prof" />
 
 </menu>

@@ -3,12 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project app/AnyEat2/app/src/main/res/drawable/btn_cir.xml" value="0.37864583333333335" />
+        <entry key="..\:/Project app/AnyEat2/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.3453703703703704" />
+        <entry key="..\:/Project app/AnyEat2/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.34074074074074073" />
         <entry key="..\:/Project app/AnyEat2/app/src/main/res/drawable/ic_search_background.xml" value="0.3728205128205128" />
         <entry key="..\:/Project app/AnyEat2/app/src/main/res/drawable/ic_search_foreground.xml" value="0.3728205128205128" />
         <entry key="..\:/Project app/AnyEat2/app/src/main/res/drawable/item_select.xml" value="0.3682051282051282" />
         <entry key="..\:/Project app/AnyEat2/app/src/main/res/drawable/round_btn.xml" value="0.3728205128205128" />
         <entry key="..\:/Project app/AnyEat2/app/src/main/res/drawable/round_conner.xml" value="0.3682051282051282" />
-        <entry key="..\:/Project app/AnyEat2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Project app/AnyEat2/app/src/main/res/layout/activity_landing_screen.xml" value="0.3578125" />
+        <entry key="..\:/Project app/AnyEat2/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Project app/AnyEat2/app/src/main/res/layout/fragment_Favourite.xml" value="0.20416666666666666" />
         <entry key="..\:/Project app/AnyEat2/app/src/main/res/layout/fragment_dashboard.xml" value="0.3578125" />
         <entry key="..\:/Project app/AnyEat2/app/src/main/res/layout/fragment_favourite.xml" value="0.33" />
